@@ -1,4 +1,4 @@
-# cloud-compute
+# Cloud-Compute
 This is a repo about cloud compute.
 
 
